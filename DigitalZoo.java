@@ -77,6 +77,5 @@ class Elephant extends Animal {
     public void displayInfo() {
         System.out.println("Elephant Info: " + getName() + getAge() + getSpecies());
     }
-
 }
 
