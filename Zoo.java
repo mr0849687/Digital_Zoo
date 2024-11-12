@@ -18,12 +18,6 @@ public class Zoo {
         elephant.makeSound();
         System.out.println("Look Dumbo is eating!");
         elephant.eat();
-
-
-
-
     }
-
-
 }
 
